@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ecom-config-server/ecom-config-server.iml" filepath="$PROJECT_DIR$/ecom-config-server/ecom-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecom-gateway-service/ecom-gateway-service.iml" filepath="$PROJECT_DIR$/ecom-gateway-service/ecom-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecom-service-resgistry/ecom-service-resgistry.iml" filepath="$PROJECT_DIR$/ecom-service-resgistry/ecom-service-resgistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ecommerce-app-main.iml" filepath="$PROJECT_DIR$/.idea/ecommerce-app-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/payment-service/payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>
